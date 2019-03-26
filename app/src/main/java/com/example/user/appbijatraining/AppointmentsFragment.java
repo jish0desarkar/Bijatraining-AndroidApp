@@ -43,6 +43,8 @@ public class AppointmentsFragment extends Fragment {
         appointmentLists.add(new AppointmentList("Dummy notification 1"));
         appointmentLists.add(new AppointmentList("Dummy notification 1"));
         appointmentLists.add(new AppointmentList("Dummy notification 1"));
+        appointmentLists.add(new AppointmentList("Dummy notification 1"));
+        appointmentLists.add(new AppointmentList("Dummy notification 1"));
 
 
 
