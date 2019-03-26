@@ -16,6 +16,7 @@ public class AppointmentsFragment extends Fragment {
 
     static List<AppointmentList> appointmentLists;
     static ListView listView;
+    int i;
 
     @Nullable
     @Override
