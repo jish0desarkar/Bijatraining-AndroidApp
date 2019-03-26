@@ -6,6 +6,7 @@ public class AppointmentList {
 
     public AppointmentList (String apptText){
         this.ApptText = apptText;
+
     }
 
     public String getApptText() {
